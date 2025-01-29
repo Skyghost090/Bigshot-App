@@ -1,5 +1,13 @@
 # BigShot
 
+![Contributors](https://img.shields.io/github/contributors/skyghost090/Bigshot-App?style=plastic)
+![Forks](https://img.shields.io/github/forks/skyghost090/Bigshot-App)
+![Stars](https://img.shields.io/github/stars/skyghost090/Bigshot-App)
+![Licence](https://img.shields.io/github/license/skyghost090/Bigshot-App)
+![Issues](https://img.shields.io/github/issues/skyghost090/Bigshot-App)
+
+## Description
+
 BigShot is an app designed to boost the performance of games on your system. By optimizing system resources and adjusting settings, BigShot ensures smoother gameplay and improved FPS (frames per second), allowing you to enjoy your games at their best. Whether you're on a low-end device or just looking for a performance boost, BigShot is your go-to tool for an enhanced gaming experience.
 
 ## Features
